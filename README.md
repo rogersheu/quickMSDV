@@ -9,7 +9,7 @@ However, MSDataView only runs one sample at a time and processing them manually 
 
 quickMSDV aims to solve that issue by iterating through a folder containing the relevant data files.
 
-Modification have to be made in the code to ensure proper pathing to the target folder.
+Modifications have to be made in the code to ensure proper pathing to the target folder.
 
 --------------
 
