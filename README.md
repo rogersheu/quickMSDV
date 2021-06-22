@@ -9,6 +9,8 @@ However, MSDataView only runs one sample at a time and processing them manually 
 
 quickMSDV aims to solve that issue by iterating through a folder containing the relevant data files.
 
+Modification have to be made in the code to ensure proper pathing to the target folder.
+
 --------------
 
 Ongoing minor bug: Because our data is usually on a university NAS and not stored locally, opening folders in the path search process can have a delay outlasting the program's built-in sleep function.
